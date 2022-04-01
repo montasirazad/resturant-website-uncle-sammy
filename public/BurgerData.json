@@ -1,0 +1,32 @@
+[
+    {
+        "id": "b1",
+        "name": "Beef Burger",
+        "price": 100,
+        "image": "https://www.eatthis.com/wp-content/uploads/sites/4/media/images/ext/520765216/classic-beef-burger.jpg?resize=640,468&quality=82&strip=all"
+    },
+    {
+        "id": "b2",
+        "name": "Smoky BBQ Cheese Chicken Burger",
+        "price": 100,
+        "image": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/chillox_banani/items/chillox_banani_smoky_b_b_q_cheese_chicken_burger_thumbnail_1615284266211.jpg"
+    },
+    {
+        "id": "b3",
+        "name": "Chicken Cheese Blast Burger",
+        "price": 100,
+        "image": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/chillox_banani/items/chillox_banani_chicken_cheese_blast_burger_thumbnail_1615290566638.jpg"
+    },
+    {
+        "id": "b4",
+        "name": "Binge Beef Burger",
+        "price": 100,
+        "image": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/chillox_banani/items/chillox_banani_binge_beef_burger_thumbnail_1615277880205.jpg"
+    },
+    {
+        "id": "b5",
+        "name": "Double Decker Chicken Burger",
+        "price": 100,
+        "image": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/chillox_banani/items/chillox_banani_double_decker_chicken_burger_thumbnail_1615289406959.jpg"
+    }
+]

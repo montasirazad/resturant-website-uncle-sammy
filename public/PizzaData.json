@@ -1,0 +1,33 @@
+[
+    {
+        "id": "p1",
+        "name": "Roasted Garlic Chicken Pizza Large",
+        "price": 100,
+        "image":"http://server.pizzainn.com.bd/image/cache/data/roasted-230x230.jpg"
+    },
+    {
+        "id": "p2",
+        "name": "Deep Dish Pizza",
+        "price": 100,
+        "image":"http://server.pizzainn.com.bd/image/cache/data/Untitled-230x230.png"
+    },
+    {
+        "id": "p3",
+        "name": "BBQ Chicken Classic Pizza Large",
+        "price": 100,
+        "image":"http://server.pizzainn.com.bd/image/cache/data/bbq-230x230.jpg"
+    },
+    {
+        "id": "p4",
+        "name": "Chicken Fajita Pizza Large",
+        "price": 100,
+        "image":"http://server.pizzainn.com.bd/image/cache/data/Fajita-230x230.jpg"
+    }
+    ,
+    {
+        "id": "p5",
+        "name": "Pizza inn Special Large",
+        "price": 100,
+        "image":"http://server.pizzainn.com.bd/image/cache/data/03-230x230.jpg"
+    }
+]

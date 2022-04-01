@@ -1,0 +1,65 @@
+.test {
+     
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width:100%;
+    height: 100%;
+    
+
+   
+}
+
+
+.rice-div{
+     
+    padding: 5px;
+    margin: 10px;
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    position: relative;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+   
+}
+
+.rice-div button{
+    position: absolute;
+    bottom: 10px;
+    right: 50px;
+}
+
+.rice-div img {
+    width: 150px;
+}
+
+
+
+
+@media only screen and (max-width: 750px) {
+    .test {
+         
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        justify-content: center;
+         align-items: center;
+         
+    
+       
+    }
+
+    .rice-div{
+         
+        padding: 2px;
+        margin: 5px;
+        width: 180px;
+        font-size: 10px;
+        text-align: center;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+       
+    }
+
+    .rice-div img {
+        width: 90px;
+    }
+  }

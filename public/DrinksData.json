@@ -1,0 +1,26 @@
+[
+    {
+        "id": "dr1",
+        "name": "Coke",
+        "price": 20,
+        "image": "https://www.coca-cola.com.bd/content/dam/brands/brandlogos/cq5dam.thumbnail.319.319.png"
+    },
+    {
+        "id": "dr2",
+        "name": "Pepsi",
+        "price": 20,
+        "image": "https://static-01.daraz.com.bd/p/c90d48181e7ea5d4f243b4f79743f58c.jpg"
+    },
+    {
+        "id": "dr3",
+        "name": "7uP",
+        "price": 20,
+        "image": "https://dr6svciluuqrd.cloudfront.net/products/gUWs7zKs77Gk8t0Jn9yy0u3VUDMWZ8Fdx6Yqm7Jq.png"
+    },
+    {
+        "id": "dr4",
+        "name": "Fanta",
+        "price": 20,
+        "image": "https://www.coca-cola.co.uk/content/dam/one/gb/en/product/fanta-organe-600x400.jpg"
+    }
+]

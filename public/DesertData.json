@@ -1,0 +1,27 @@
+[
+    {
+        "id": "de1",
+        "name": "CHOCOLATE FUDGE",
+        "price": 198,
+        "image":"https://secretrecipebd.com/wp-content/uploads/2017/07/CHOCOLATE-FUDGE-600x0.jpg"
+    },
+    {
+        "id": "de2",
+        "name": "CHOCOLATE INDULGENCE CAKE",
+        "price": "231",
+        "image":"https://secretrecipebd.com/wp-content/uploads/2017/07/CHOCOLATE-INDULGENCE-CAKE-600x0.jpg"
+    },
+    {
+        "id": "de3",
+        "name": "DARK CHOCOLATE",
+        "price": 242,
+        "image":"https://secretrecipebd.com/wp-content/uploads/2018/01/Dark-Chocolate-Resized-600x0.jpg"
+    },
+    {
+        "id": "de4",
+        "name": "RED VELVET",
+        "price": 275,
+        "image":"https://secretrecipebd.com/wp-content/uploads/2017/07/THE-RED-VELVET-600x0.jpg"
+    }
+    
+]

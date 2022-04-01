@@ -1,0 +1,32 @@
+[
+    {
+        "id": "r1",
+        "name": "Lighter Fried Rice",
+        "price": 100,
+        "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimg1.cookinglight.timeinc.net%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F4_3_horizontal_-_1200x900%2Fpublic%2Fupdated_main_images%2Foh3468p158-tofu-fried-rice-new-x_0.jpg%3Fitok%3DCVfXdPcV&w=200&c=sc&poi=face&q=60"
+    },
+    {
+        "id": "r2",
+        "name": "Shrimp Fried Rice",
+        "price": 100,
+        "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimg1.cookinglight.timeinc.net%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F4_3_horizontal_-_1200x900%2Fpublic%2Fupdated_main_images%2F1205p104-shrimp-fried-rice-x_0.jpg%3Fitok%3DE3XAi4kg&w=200&c=sc&poi=face&q=60"
+    },
+    {
+        "id": "r3",
+        "name": "Chicken Fried Rice",
+        "price": 100,
+        "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimg1.cookinglight.timeinc.net%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F4_3_horizontal_-_1200x900%2Fpublic%2Fupdated_main_images%2Foh3700p76-chicken-fried-rice-x_1.jpg%3Fitok%3DiLgTPWpW&w=200&c=sc&poi=face&q=60"
+    },
+    {
+        "id": "r4",
+        "name": "Fried Rice with Sweet Soy Sauce",
+        "price": 100,
+        "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimg1.cookinglight.timeinc.net%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F4_3_horizontal_-_1200x900%2Fpublic%2Fupdated_main_images%2F1108-fried-rice-sweet-soy-sauce-x.jpg%3Fitok%3DNCxgnXS5&w=200&c=sc&poi=face&q=60"
+    },
+    {
+        "id": "r5",
+        "name": "Fried Brown Rice with Red Pepper and Almond",
+        "price": 100,
+        "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimg1.cookinglight.timeinc.net%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F4_3_horizontal_-_1200x900%2Fpublic%2Fupdated_main_images%2F1312p32-fried-brown-rice-red-pepper-almond-x_0.jpg%3Fitok%3Dyg5eFlE5&w=200&c=sc&poi=face&q=60"
+    }
+]
